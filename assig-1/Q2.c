@@ -8,6 +8,7 @@ void printBinary(unsigned int n) {
         else
             printf("0");
     }
+    printf("\n");
 }
 int main() {
     unsigned int num;
