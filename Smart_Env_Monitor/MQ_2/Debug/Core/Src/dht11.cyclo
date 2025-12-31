@@ -1,0 +1,5 @@
+../Core/Src/dht11.c:9:13:delay_us	2
+../Core/Src/dht11.c:17:13:DHT_SetPinOutput	1
+../Core/Src/dht11.c:29:13:DHT_SetPinInput	1
+../Core/Src/dht11.c:40:6:DHT11_Init	1
+../Core/Src/dht11.c:52:9:DHT11_Read	9

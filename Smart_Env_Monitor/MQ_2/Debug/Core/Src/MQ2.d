@@ -29,6 +29,7 @@ Core/Src/MQ2.o: ../Core/Src/MQ2.c ../Core/Inc/main.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c_ex.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
  ../Core/Inc/MQ2.h ../Core/Inc/main.h ../Core/Inc/my_lcd.h \
  ../Core/Inc/my_led.h ../Core/Inc/buzzer.h
 ../Core/Inc/main.h:
@@ -62,6 +63,7 @@ Core/Src/MQ2.o: ../Core/Src/MQ2.c ../Core/Inc/main.h \
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_i2c_ex.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
 ../Core/Inc/MQ2.h:
 ../Core/Inc/main.h:
 ../Core/Inc/my_lcd.h:

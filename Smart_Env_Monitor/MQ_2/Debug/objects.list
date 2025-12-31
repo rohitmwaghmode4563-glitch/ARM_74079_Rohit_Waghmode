@@ -1,5 +1,6 @@
 "./Core/Src/MQ2.o"
 "./Core/Src/buzzer.o"
+"./Core/Src/dht11.o"
 "./Core/Src/main.o"
 "./Core/Src/my_lcd.o"
 "./Core/Src/my_led.o"
@@ -26,4 +27,5 @@
 "./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o"
 "./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o"
 "./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o"
+"./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.o"
 "./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.o"
